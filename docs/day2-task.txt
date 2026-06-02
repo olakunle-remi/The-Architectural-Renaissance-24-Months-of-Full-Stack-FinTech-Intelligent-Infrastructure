@@ -1,0 +1,375 @@
+If your goal is to **start immediately and complete Day 2 today**, then the weekly plan should be broken into **daily missions**.
+
+# 🚀 728-Day Modern Software Engineering Sprint
+
+## Month 1: Linux Fundamentals
+
+### Day 1
+
+* Install Linux (or set up WSL/Kali Linux)
+* Learn Linux directory structure
+* Practice:
+
+  * `pwd`
+  * `ls`
+  * `cd`
+  * `mkdir`
+  * `rmdir`
+
+### Day 2 (Today's Mission)
+
+#### File and Directory Management
+
+Learn:
+
+* `touch`
+* `cp`
+* `mv`
+* `rm`
+* `cat`
+* `nano`
+
+Practice:
+
+```bash
+mkdir software_engineering
+cd software_engineering
+
+touch profile.txt
+touch notes.txt
+
+cp notes.txt backup_notes.txt
+
+mv profile.txt myprofile.txt
+
+cat myprofile.txt
+
+nano myprofile.txt
+```
+
+### Deliverable for Day 2
+
+Create:
+
+```
+software_engineering/
+│
+├── myprofile.txt
+├── notes.txt
+└── backup_notes.txt
+```
+
+Add your name and career goals inside `myprofile.txt`.
+
+---
+
+### Day 3
+
+Learn:
+
+* File permissions
+
+Commands:
+
+```bash
+chmod
+chown
+ls -l
+```
+
+Practice:
+
+* Give read/write permissions
+* Remove execute permissions
+* Understand permission groups
+
+---
+
+### Day 4
+
+Learn:
+
+* Users and groups
+
+Commands:
+
+```bash
+whoami
+id
+groups
+sudo
+```
+
+Practice:
+
+* Create a test user
+* Add user to group
+
+---
+
+### Day 5
+
+Learn:
+
+* Process management
+
+Commands:
+
+```bash
+ps
+top
+kill
+jobs
+```
+
+Practice:
+
+* Start processes
+* Stop processes
+
+---
+
+### Day 6
+
+Learn:
+
+* Package management
+
+Ubuntu/Kali:
+
+```bash
+apt update
+apt upgrade
+apt install
+```
+
+Install:
+
+* Git
+* Curl
+* Vim
+
+---
+
+### Day 7
+
+Mini Project
+
+Create:
+
+```
+student_records/
+teachers/
+courses/
+```
+
+Use Linux commands only.
+
+---
+
+# Month 2: Git & GitHub
+
+### Day 8
+
+Install Git
+
+```bash
+git --version
+```
+
+Learn:
+
+* What is Git
+* What is GitHub
+
+---
+
+### Day 9
+
+Create repository
+
+```bash
+git init
+git status
+```
+
+---
+
+### Day 10
+
+Learn commits
+
+```bash
+git add .
+git commit
+```
+
+---
+
+### Day 11
+
+Learn branches
+
+```bash
+git branch
+git checkout
+```
+
+---
+
+### Day 12
+
+GitHub account setup
+
+Create:
+
+* Portfolio repository
+
+---
+
+### Day 13
+
+Push code
+
+```bash
+git push
+```
+
+---
+
+### Day 14
+
+Git Mini Project
+
+Push Linux Project to GitHub.
+
+---
+
+# Month 3: PostgreSQL
+
+### Day 15
+
+Install PostgreSQL
+
+### Day 16
+
+Create database
+
+### Day 17
+
+Create tables
+
+### Day 18
+
+Insert data
+
+### Day 19
+
+SELECT queries
+
+### Day 20
+
+WHERE clause
+
+### Day 21
+
+Mini Project
+
+Student Database
+
+---
+
+# Month 4: Java Core
+
+### Day 22
+
+Variables
+
+### Day 23
+
+Conditions
+
+### Day 24
+
+Loops
+
+### Day 25
+
+Methods
+
+### Day 26
+
+Arrays
+
+### Day 27
+
+Classes
+
+### Day 28
+
+Objects
+
+### Day 29
+
+Inheritance
+
+### Day 30
+
+Polymorphism
+
+### Day 31
+
+Collections
+
+### Day 32
+
+Streams
+
+### Day 33
+
+Exception Handling
+
+### Day 34
+
+File Handling
+
+### Day 35
+
+Mini Project
+
+Student Management Console App
+
+---
+
+# What You Should Do Today (Day 2)
+
+1. Open Kali Linux/WSL.
+2. Create the `software_engineering` folder.
+3. Create the three text files.
+4. Practice `cp`, `mv`, `cat`, and `nano`.
+5. Write this inside `myprofile.txt`:
+
+```text
+Name: Olakunle Abiodun
+
+Goal:
+Become a FinTech Software Architect specializing in:
+- Java
+- Spring Boot
+- ISO 8583
+- Cloud Computing
+- DevOps
+- AI
+```
+
+6. Save the file.
+7. Run:
+
+```bash
+ls -la
+cat myprofile.txt
+```
+
+8. Take a screenshot or verify the output.
+
+After you finish Day 2, I can also break the **entire 728-day roadmap into a detailed Day 1–Day 104 schedule** where every day has a specific topic, exercise, project task, and expected deliverable.
